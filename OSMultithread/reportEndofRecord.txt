@@ -1,0 +1,4 @@
+Test for end of RecordLine
+backtest
+endOfRecord.rpt
+72-80,End Field

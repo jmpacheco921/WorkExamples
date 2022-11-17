@@ -1,0 +1,55 @@
+FIND
+E = 45
+X ;
+FIND 7
+E = 45
+X ;
+FIND 2
+E = 45
+X ;
+FIND 2
+I > 95
+X ;
+FIND
+I > 95
+X ;
+FIND
+J < 600
+D B ;
+FIND
+J < 600
+X ;
+FIND
+J < 600
+H C I ;
+FIND
+J < 600
+D A B ;
+SORT
+Q = 1 ;
+SORT 2
+Q = -1 ;
+FIND
+Z
+J ;
+WHAT
+Z
+X ;
+FIND 5
+I > 90
+B < 900
+X ;
+FIND 5
+I > 90
+B < 900
+G = 2
+X ;
+FIND 3
+I > 90
+B < 900
+G = 2
+D < 2
+X ;
+FIND 4
+E = 47 
+H C ;

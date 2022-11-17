@@ -1,0 +1,6 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "report_record_formats.h": "c"
+    }
+}
